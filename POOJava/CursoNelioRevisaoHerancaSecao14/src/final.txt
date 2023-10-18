@@ -1,0 +1,4 @@
+final impede que a classe seja herdada (extend) ou que um método seja sobresposto
+
+recomendado utilizar para metodos que ja sao sobrepostos (@Override).
+aumenta a performance

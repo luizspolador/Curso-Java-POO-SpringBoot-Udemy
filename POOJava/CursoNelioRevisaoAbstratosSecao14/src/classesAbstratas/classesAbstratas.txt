@@ -1,0 +1,10 @@
+Classes abstratas
+
+são classes que nao podem ser instanciadas
+
+Somente subclasses não abstratas podem ser instanciadas, mas nunca a superclasse abstrata
+
+UML -> Classe Abstrata esta em italico
+
+- utilizada para reuso de codigo e polimorfismo
+

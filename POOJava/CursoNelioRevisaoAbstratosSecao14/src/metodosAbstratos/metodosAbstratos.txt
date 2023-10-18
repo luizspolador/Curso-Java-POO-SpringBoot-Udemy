@@ -1,0 +1,5 @@
+Metodos Abstratos não possuem implementação
+podem ser abstratos quando a classe é muito generica
+
+notação UML: em italico
+
